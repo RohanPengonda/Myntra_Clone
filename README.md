@@ -1,5 +1,5 @@
 # Myntra_Clone    
- Created using HTML,CSS and JavaScript
+ Created using HTML,CSS and JavaScript .
 
 ![image](https://github.com/RohanPengonda/Myntra_Clone/assets/51857509/9198ee5f-0991-4b7f-9ec4-3f0b13151ed0)
 
